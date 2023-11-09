@@ -165,7 +165,7 @@ textarea {
  
  }
  .image1{
-  background-image: url(../assets/jpeg/V2.jpeg);
+  background-image: url(../V2.jpeg);
   height: 1600px;
   background-repeat: no-repeat;
   background-position: center;
@@ -220,7 +220,7 @@ textarea {
   display: none; }
 
 /*.image{
-  background-image:url(../assets/jpeg/V1.jpeg);
+  background-image:url(../V1.jpeg);
   height: 1600px;
 position:relative;
   width:2000px;
@@ -229,7 +229,7 @@ position:relative;
 
 .home-hero {
   color: #fff;
-  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../common-bg.svg);
   background-image:url(../assets/jpeg/V1.jpeg);
   height: 1600px;
 
@@ -375,7 +375,7 @@ position:relative;
           font-size: 1.7rem; } }
 
 .contact {
-  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../common-bg.svg);
   background-size: cover;
   background-position: center; }
   .contact__form-container {
@@ -456,7 +456,7 @@ position:relative;
 
 .project-cs-hero {
   color: #fff;
-  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(0, 98, 185, 0.8), rgba(0, 98, 185, 0.8)), url(../common-bg.svg);
   background-size: cover;
   background-position: center;
   position: relative; }
