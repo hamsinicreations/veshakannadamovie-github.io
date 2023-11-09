@@ -165,7 +165,7 @@ textarea {
  
  }
  .image1{
-  background-image: url(../V2.jpeg);
+  background-image: url(./V2.jpeg);
   height: 1600px;
   background-repeat: no-repeat;
   background-position: center;
@@ -220,7 +220,7 @@ textarea {
   display: none; }
 
 /*.image{
-  background-image:url(../V1.jpeg);
+  background-image:url(./V1.jpeg);
   height: 1600px;
 position:relative;
   width:2000px;
